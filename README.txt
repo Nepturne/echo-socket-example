@@ -1,4 +1,4 @@
-Baixar o Node.js no site:
+Baixar o Node.js no site: https://nodejs.org/en/
 
 Iniciar primeiramente o server indo até a raiz do diretório server com o comando: node server.js
 
